@@ -1,0 +1,12 @@
+{
+    "name": "Prototipo_RAG_IOT",
+    "description": "Prototipo de un sistema RAG | IOT",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "RAG.json",
+            "credentialsFile": "RAG_cred.json"
+        }
+    }
+}
