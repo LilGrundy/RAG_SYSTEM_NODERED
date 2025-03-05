@@ -32,6 +32,157 @@
         "h": 202
     },
     {
+        "id": "b01cd01b84ad4233",
+        "type": "group",
+        "z": "0cb9ce95e0fb80c1",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "fe0247b403790f6a",
+            "d7613ad66021fa8d",
+            "d7895d3c03a9d272",
+            "cc1405e05c469c07",
+            "548f944b76e76a64",
+            "c9c994985b9e1bcc",
+            "92338d9850c141b5",
+            "7535b91d27278bee",
+            "8f6ca4e323d085f5",
+            "c5ca378ba4332575",
+            "4169d0ea5476c324",
+            "d0357069aac986a3",
+            "4ed6c53a55d313b4",
+            "e20fb785db36fd15",
+            "0926d832767b11e9",
+            "447a599b5af3ece4",
+            "603dd2f3a602f223",
+            "0683d30e26c8cd3c",
+            "6de66805b1125a66",
+            "f001f16ef2ccab13",
+            "6398d6d7e6bf80bf",
+            "2149b9b12c09a147",
+            "2bd0549b77e045b1",
+            "273e39b2482058a1",
+            "6272175a8d813d69",
+            "3ee2abcc89a0672b",
+            "7ddb79fad56efcad",
+            "c79e4932c1d145c5",
+            "5832785467b7ce19",
+            "f65cbb94ed77cc9b",
+            "33d9552aaa51c858",
+            "fe807166906128ea",
+            "3d9eb121a81cbb55",
+            "7667aa32e4c09ba6",
+            "e147f67469709da6",
+            "7dbfa3c073e00134",
+            "968e9c2b1fa344ee",
+            "7fb435c08c71b972",
+            "ab0262e108a6c7e3",
+            "22dc3581524c6588",
+            "d7296ed5f60b9f99",
+            "4da285de391cf12c",
+            "788d6be5827520cc",
+            "731fb8cfed073c34",
+            "5a8d9e2493272220",
+            "97179a29c1dc0732",
+            "02c44a5d58adab90",
+            "0a177b72c78b73a9",
+            "8c5a221e5f9cd6c5",
+            "d3f1b3eb7fd67160",
+            "7d4043a6599d82bc",
+            "ed46de57db7f8a66",
+            "10a563265953f68d",
+            "c26da363b2269cce",
+            "05080b25e8b05bf8",
+            "57b8be9004329cfa",
+            "59d1f74fd64fb08f",
+            "28bc32e9756c5c9d",
+            "a4c26e5bff769b17",
+            "0aac237c829b6445",
+            "c474d983fe977ee9",
+            "fb0a274bfbb730ec",
+            "9cdbbdcdb78e46ac",
+            "1764b8576dde99b8",
+            "d104ef1f56b5ae7e",
+            "cb9b30fd7f7501ab",
+            "ca3aabdba715d995",
+            "7d26d2b7a0f30a0e",
+            "9954368b6b9b5a10",
+            "bab6531bce93eb04",
+            "3060c0b8d921284a",
+            "00f87e04b1128362",
+            "f8b795d039f5ecdf",
+            "7b62f650c880a5fa",
+            "8c29c114587a23d7",
+            "ac35f401e8901131",
+            "611b858098b87306",
+            "f6ec39547f93a882",
+            "41da8813c38b36de",
+            "51364afccd70b67c",
+            "2ecedbc7cc640e5f",
+            "1ced01a7c820830b",
+            "c0aed974b2ef688b",
+            "2a3308db1c2734a0",
+            "32470e840bac572f",
+            "6f92e5d45c6081e9",
+            "5b6b5b9cc643851c",
+            "7ce8e8e8557f18d2",
+            "90f2ea3e184c2823",
+            "d667aec4573fd28f",
+            "8e489e4fd0f85e89",
+            "8e60eaf62fefdcec",
+            "c52608ad6a40e8b0",
+            "93adbf7024ca9401",
+            "0798f98944ecaf87",
+            "185343eaac595ba3",
+            "c8df7a62bb2fdac3",
+            "a6532727936f7d8a",
+            "10cd276961ce1845",
+            "abdb7bac40648b7d",
+            "5d714ae625f640e2",
+            "416066a81eaac1d1",
+            "a4de3713a6bb6943",
+            "2b76801676b611d1",
+            "4cd336a8c79e5a5a",
+            "e9ba900871c2bff7",
+            "9dbd095553e53a7e",
+            "2dbb2f0eb29df993",
+            "8a00e1c845e1937e",
+            "d5594deb7442406d",
+            "18db13792640987b",
+            "38b19f3f549c5dda",
+            "c0c4ae6d06cc2820",
+            "46131a6c13c98a10",
+            "208c76291db645fb",
+            "0b2d9a046cabec0c",
+            "d4c4968fb79fbb27",
+            "3ebbea9e6dd6bb01",
+            "e4f4d596fa1607ee",
+            "6b4883a46f36c6a4",
+            "12948e8106e38868",
+            "3b288ce1f5404eb5",
+            "4def3734c07cfe7f",
+            "48cecb80857596fd",
+            "0dae250cc902af9e",
+            "c0ffced1bd4f04d5",
+            "4963d2f3badfdb97",
+            "2364295754b50744",
+            "9adbc1bfa1d85721",
+            "12b8460ef89d9769",
+            "76d17e213099085f"
+        ],
+        "x": 54,
+        "y": 419,
+        "w": 1212,
+        "h": 2382
+    },
+    {
         "id": "01c856d5c4586b33",
         "type": "s7 endpoint",
         "transport": "iso-on-tcp",
@@ -116,19 +267,62 @@
         "rejectUnauthorized": true
     },
     {
-        "id": "a9c2f152e6dee8b9",
-        "type": "s7 in",
-        "z": "0cb9ce95e0fb80c1",
-        "endpoint": "01c856d5c4586b33",
-        "mode": "all",
-        "variable": "Static_2_R",
-        "diff": false,
-        "name": "",
-        "x": 160,
-        "y": 100,
-        "wires": [
-            []
-        ]
+        "id": "c4a379e8159a05ba",
+        "type": "telegram bot",
+        "botname": "botmachinev1_bot",
+        "usernames": "",
+        "chatids": "",
+        "baseapiurl": "",
+        "updatemode": "polling",
+        "pollinterval": 300,
+        "usesocks": false,
+        "sockshost": "",
+        "socksprotocol": "socks5",
+        "socksport": 6667,
+        "socksusername": "anonymous",
+        "sockspassword": "",
+        "bothost": "",
+        "botpath": "",
+        "localbotport": 8443,
+        "publicbotport": 8443,
+        "privatekey": "",
+        "certificate": "",
+        "useselfsignedcertificate": false,
+        "sslterminated": false,
+        "verboselogging": false
+    },
+    {
+        "id": "ff5d761f4988b3a1",
+        "type": "ollama-config-server",
+        "host": "192.168.20.20",
+        "port": 11434
+    },
+    {
+        "id": "e17081a1f0b5205c",
+        "type": "ollama-config-server",
+        "host": "localhost",
+        "port": 11434
+    },
+    {
+        "id": "ef1773782a4a14db",
+        "type": "influxdb",
+        "hostname": "192.168.20.20",
+        "port": 8086,
+        "protocol": "http",
+        "database": "RAG",
+        "name": "DOCKERINFLUX",
+        "usetls": false,
+        "tls": "",
+        "influxdbVersion": "1.x",
+        "url": "http://localhost:8086",
+        "timeout": 10,
+        "rejectUnauthorized": true
+    },
+    {
+        "id": "dd357caba48a1cfd",
+        "type": "ollama-config-server",
+        "host": "localhost",
+        "port": 11434
     },
     {
         "id": "88284dbb9cbbfc25",
@@ -174,7 +368,7 @@
         "z": "0cb9ce95e0fb80c1",
         "g": "17e478996bfff9eb",
         "name": "debug 4",
-        "active": true,
+        "active": false,
         "tosidebar": true,
         "console": true,
         "tostatus": true,
@@ -195,6 +389,2617 @@
         "info": "",
         "x": 210,
         "y": 220,
+        "wires": []
+    },
+    {
+        "id": "fe0247b403790f6a",
+        "type": "telegram command",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "name": "",
+        "command": "/oee",
+        "description": "",
+        "registercommand": false,
+        "language": "",
+        "scope": "default",
+        "bot": "c4a379e8159a05ba",
+        "strict": false,
+        "hasresponse": true,
+        "useregex": false,
+        "removeregexcommand": false,
+        "outputs": 2,
+        "x": 130,
+        "y": 680,
+        "wires": [
+            [
+                "d7895d3c03a9d272"
+            ],
+            []
+        ]
+    },
+    {
+        "id": "d7613ad66021fa8d",
+        "type": "function",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "name": "PROMPT",
+        "func": "// 1. Procesar los datos de InfluxDB\nlet datos = msg.payload;\n\n// Verificar si hay datos\nif (!Array.isArray(datos) || datos.length === 0) {\n    msg.payload = {\n        error: \"No hay datos para procesar.\"\n    };\n    return msg;\n}\n\n// Obtener los nombres de las columnas (claves del primer objeto)\nlet columnas = Object.keys(datos[0]);\n\n// Resumir los datos para crear un prompt más manejable\nlet resumen = datos.slice(0, 100).map(item => {\n    let fila = {};\n    columnas.forEach(columna => {\n        fila[columna] = item[columna]; // Incluir todas las columnas y sus valores\n    });\n    return fila;\n});\n\n// Crear un prompt personalizado\nlet prompt = `Analiza los siguientes datos: ${JSON.stringify(resumen)}. ¿Qué conclusiones puedes sacar? ¿Hay algún dato que parezca incorrecto o fuera de lo esperado? Responder todo en español.`;\n\n// 2. Estructurar el mensaje para Ollama\nmsg.payload = {\n    \"model\": \"Industrial\", // Especifica el modelo de Ollama\n    \"messages\": [\n        {\n            \"role\": \"user\", // Rol del mensaje (usuario)\n            \"content\": prompt // El prompt creado con los datos procesados\n        }\n    ]\n};\n\n// Retornar el mensaje con la estructura correcta\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 600,
+        "y": 680,
+        "wires": [
+            [
+                "cc1405e05c469c07",
+                "7535b91d27278bee"
+            ]
+        ]
+    },
+    {
+        "id": "d7895d3c03a9d272",
+        "type": "influxdb in",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "influxdb": "ef1773782a4a14db",
+        "name": "",
+        "query": "SELECT \"OEE\" FROM \"RAG\" ORDER BY time DESC LIMIT 5\n",
+        "rawOutput": false,
+        "precision": "",
+        "retentionPolicy": "",
+        "org": "organisation",
+        "x": 370,
+        "y": 680,
+        "wires": [
+            [
+                "92338d9850c141b5",
+                "d7613ad66021fa8d"
+            ]
+        ]
+    },
+    {
+        "id": "cc1405e05c469c07",
+        "type": "ollama-chat",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "name": "Chat",
+        "server": "ff5d761f4988b3a1",
+        "model": "Industrial",
+        "modelType": "str",
+        "messages": "",
+        "messagesType": "msg",
+        "format": "",
+        "stream": false,
+        "keepAlive": "",
+        "keepAliveType": "str",
+        "tools": "",
+        "options": "",
+        "x": 770,
+        "y": 680,
+        "wires": [
+            [
+                "548f944b76e76a64",
+                "8f6ca4e323d085f5"
+            ]
+        ]
+    },
+    {
+        "id": "548f944b76e76a64",
+        "type": "function",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "name": "function 2",
+        "func": "// Extraer el contenido de la respuesta de Ollama\nvar ollamaContent = msg.payload.message.content;\n\n// Construir el objeto msg.payload para Telegram\nmsg.payload = {\n    \"chatId\": 1144956543, // Reemplaza con el chatId correcto\n    \"type\": \"message\",\n    \"content\": ollamaContent // Usar el contenido de la respuesta de Ollama\n};\n\n// Retornar el mensaje modificado\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 940,
+        "y": 680,
+        "wires": [
+            [
+                "c9c994985b9e1bcc",
+                "c5ca378ba4332575"
+            ]
+        ]
+    },
+    {
+        "id": "c9c994985b9e1bcc",
+        "type": "telegram sender",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "name": "",
+        "bot": "c4a379e8159a05ba",
+        "haserroroutput": false,
+        "outputs": 1,
+        "x": 1130,
+        "y": 680,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "92338d9850c141b5",
+        "type": "debug",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "name": "debug 8",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 580,
+        "y": 580,
+        "wires": []
+    },
+    {
+        "id": "7535b91d27278bee",
+        "type": "debug",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "name": "debug 9",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 760,
+        "y": 580,
+        "wires": []
+    },
+    {
+        "id": "8f6ca4e323d085f5",
+        "type": "debug",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "name": "debug 10",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 920,
+        "y": 580,
+        "wires": []
+    },
+    {
+        "id": "c5ca378ba4332575",
+        "type": "debug",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "name": "debug 11",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1100,
+        "y": 580,
+        "wires": []
+    },
+    {
+        "id": "4169d0ea5476c324",
+        "type": "telegram command",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "name": "",
+        "command": "/vapor",
+        "description": "",
+        "registercommand": false,
+        "language": "",
+        "scope": "default",
+        "bot": "c4a379e8159a05ba",
+        "strict": false,
+        "hasresponse": true,
+        "useregex": false,
+        "removeregexcommand": false,
+        "outputs": 2,
+        "x": 130,
+        "y": 860,
+        "wires": [
+            [
+                "4ed6c53a55d313b4"
+            ],
+            []
+        ]
+    },
+    {
+        "id": "d0357069aac986a3",
+        "type": "function",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "name": "PROMPT",
+        "func": "// 1. Procesar los datos de InfluxDB\nlet datos = msg.payload;\n\n// Verificar si hay datos\nif (!Array.isArray(datos) || datos.length === 0) {\n    msg.payload = {\n        error: \"No hay datos para procesar.\"\n    };\n    return msg;\n}\n\n// Obtener los nombres de las columnas (claves del primer objeto)\nlet columnas = Object.keys(datos[0]);\n\n// Resumir los datos para crear un prompt más manejable\nlet resumen = datos.slice(0, 100).map(item => {\n    let fila = {};\n    columnas.forEach(columna => {\n        fila[columna] = item[columna]; // Incluir todas las columnas y sus valores\n    });\n    return fila;\n});\n\n// Crear un prompt personalizado\nlet prompt = `Analiza los siguientes datos: ${JSON.stringify(resumen)}. ¿Qué conclusiones puedes sacar? ¿Hay algún dato que parezca incorrecto o fuera de lo esperado? Responder todo en español.`;\n\n// 2. Estructurar el mensaje para Ollama\nmsg.payload = {\n    \"model\": \"Industrial\", // Especifica el modelo de Ollama\n    \"messages\": [\n        {\n            \"role\": \"user\", // Rol del mensaje (usuario)\n            \"content\": prompt // El prompt creado con los datos procesados\n        }\n    ]\n};\n\n// Retornar el mensaje con la estructura correcta\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 600,
+        "y": 860,
+        "wires": [
+            [
+                "e20fb785db36fd15",
+                "0683d30e26c8cd3c"
+            ]
+        ]
+    },
+    {
+        "id": "4ed6c53a55d313b4",
+        "type": "influxdb in",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "influxdb": "ef1773782a4a14db",
+        "name": "",
+        "query": "SELECT \"VAPOR\" FROM \"RAG\" ORDER BY time DESC LIMIT 5\n",
+        "rawOutput": false,
+        "precision": "",
+        "retentionPolicy": "",
+        "org": "organisation",
+        "x": 370,
+        "y": 860,
+        "wires": [
+            [
+                "603dd2f3a602f223",
+                "d0357069aac986a3"
+            ]
+        ]
+    },
+    {
+        "id": "e20fb785db36fd15",
+        "type": "ollama-chat",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "name": "Chat",
+        "server": "ff5d761f4988b3a1",
+        "model": "Industrial",
+        "modelType": "str",
+        "messages": "",
+        "messagesType": "msg",
+        "format": "",
+        "stream": false,
+        "keepAlive": "",
+        "keepAliveType": "str",
+        "tools": "",
+        "options": "",
+        "x": 770,
+        "y": 860,
+        "wires": [
+            [
+                "0926d832767b11e9",
+                "6de66805b1125a66"
+            ]
+        ]
+    },
+    {
+        "id": "0926d832767b11e9",
+        "type": "function",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "name": "function 3",
+        "func": "// Extraer el contenido de la respuesta de Ollama\nvar ollamaContent = msg.payload.message.content;\n\n// Construir el objeto msg.payload para Telegram\nmsg.payload = {\n    \"chatId\": 1144956543, // Reemplaza con el chatId correcto\n    \"type\": \"message\",\n    \"content\": ollamaContent // Usar el contenido de la respuesta de Ollama\n};\n\n// Retornar el mensaje modificado\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 940,
+        "y": 860,
+        "wires": [
+            [
+                "447a599b5af3ece4",
+                "f001f16ef2ccab13"
+            ]
+        ]
+    },
+    {
+        "id": "447a599b5af3ece4",
+        "type": "telegram sender",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "name": "",
+        "bot": "c4a379e8159a05ba",
+        "haserroroutput": false,
+        "outputs": 1,
+        "x": 1130,
+        "y": 860,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "603dd2f3a602f223",
+        "type": "debug",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "name": "debug 12",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 580,
+        "y": 760,
+        "wires": []
+    },
+    {
+        "id": "0683d30e26c8cd3c",
+        "type": "debug",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "name": "debug 13",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 760,
+        "y": 760,
+        "wires": []
+    },
+    {
+        "id": "6de66805b1125a66",
+        "type": "debug",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "name": "debug 14",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 920,
+        "y": 760,
+        "wires": []
+    },
+    {
+        "id": "f001f16ef2ccab13",
+        "type": "debug",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "name": "debug 15",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1100,
+        "y": 760,
+        "wires": []
+    },
+    {
+        "id": "6398d6d7e6bf80bf",
+        "type": "telegram command",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "name": "",
+        "command": "/agua",
+        "description": "",
+        "registercommand": false,
+        "language": "",
+        "scope": "default",
+        "bot": "c4a379e8159a05ba",
+        "strict": false,
+        "hasresponse": true,
+        "useregex": false,
+        "removeregexcommand": false,
+        "outputs": 2,
+        "x": 130,
+        "y": 1040,
+        "wires": [
+            [
+                "2bd0549b77e045b1"
+            ],
+            []
+        ]
+    },
+    {
+        "id": "2149b9b12c09a147",
+        "type": "function",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "name": "PROMPT",
+        "func": "// 1. Procesar los datos de InfluxDB\nlet datos = msg.payload;\n\n// Verificar si hay datos\nif (!Array.isArray(datos) || datos.length === 0) {\n    msg.payload = {\n        error: \"No hay datos para procesar.\"\n    };\n    return msg;\n}\n\n// Obtener los nombres de las columnas (claves del primer objeto)\nlet columnas = Object.keys(datos[0]);\n\n// Resumir los datos para crear un prompt más manejable\nlet resumen = datos.slice(0, 100).map(item => {\n    let fila = {};\n    columnas.forEach(columna => {\n        fila[columna] = item[columna]; // Incluir todas las columnas y sus valores\n    });\n    return fila;\n});\n\n// Crear un prompt personalizado\nlet prompt = `Analiza los siguientes datos: ${JSON.stringify(resumen)}. ¿Qué conclusiones puedes sacar? ¿Hay algún dato que parezca incorrecto o fuera de lo esperado? Responder todo en español.`;\n\n// 2. Estructurar el mensaje para Ollama\nmsg.payload = {\n    \"model\": \"Industrial\", // Especifica el modelo de Ollama\n    \"messages\": [\n        {\n            \"role\": \"user\", // Rol del mensaje (usuario)\n            \"content\": prompt // El prompt creado con los datos procesados\n        }\n    ]\n};\n\n// Retornar el mensaje con la estructura correcta\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 600,
+        "y": 1040,
+        "wires": [
+            [
+                "273e39b2482058a1",
+                "c79e4932c1d145c5"
+            ]
+        ]
+    },
+    {
+        "id": "2bd0549b77e045b1",
+        "type": "influxdb in",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "influxdb": "ef1773782a4a14db",
+        "name": "",
+        "query": "SELECT \"AGUA\" FROM \"RAG\" ORDER BY time DESC LIMIT 5\n",
+        "rawOutput": false,
+        "precision": "",
+        "retentionPolicy": "",
+        "org": "organisation",
+        "x": 370,
+        "y": 1040,
+        "wires": [
+            [
+                "7ddb79fad56efcad",
+                "2149b9b12c09a147"
+            ]
+        ]
+    },
+    {
+        "id": "273e39b2482058a1",
+        "type": "ollama-chat",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "name": "Chat",
+        "server": "ff5d761f4988b3a1",
+        "model": "Industrial",
+        "modelType": "str",
+        "messages": "",
+        "messagesType": "msg",
+        "format": "",
+        "stream": false,
+        "keepAlive": "",
+        "keepAliveType": "str",
+        "tools": "",
+        "options": "",
+        "x": 770,
+        "y": 1040,
+        "wires": [
+            [
+                "6272175a8d813d69",
+                "5832785467b7ce19"
+            ]
+        ]
+    },
+    {
+        "id": "6272175a8d813d69",
+        "type": "function",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "name": "function 4",
+        "func": "// Extraer el contenido de la respuesta de Ollama\nvar ollamaContent = msg.payload.message.content;\n\n// Construir el objeto msg.payload para Telegram\nmsg.payload = {\n    \"chatId\": 1144956543, // Reemplaza con el chatId correcto\n    \"type\": \"message\",\n    \"content\": ollamaContent // Usar el contenido de la respuesta de Ollama\n};\n\n// Retornar el mensaje modificado\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 940,
+        "y": 1040,
+        "wires": [
+            [
+                "3ee2abcc89a0672b",
+                "f65cbb94ed77cc9b"
+            ]
+        ]
+    },
+    {
+        "id": "3ee2abcc89a0672b",
+        "type": "telegram sender",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "name": "",
+        "bot": "c4a379e8159a05ba",
+        "haserroroutput": false,
+        "outputs": 1,
+        "x": 1130,
+        "y": 1040,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "7ddb79fad56efcad",
+        "type": "debug",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "name": "debug 16",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 580,
+        "y": 940,
+        "wires": []
+    },
+    {
+        "id": "c79e4932c1d145c5",
+        "type": "debug",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "name": "debug 17",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 760,
+        "y": 940,
+        "wires": []
+    },
+    {
+        "id": "5832785467b7ce19",
+        "type": "debug",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "name": "debug 18",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 920,
+        "y": 940,
+        "wires": []
+    },
+    {
+        "id": "f65cbb94ed77cc9b",
+        "type": "debug",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "name": "debug 19",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1100,
+        "y": 940,
+        "wires": []
+    },
+    {
+        "id": "33d9552aaa51c858",
+        "type": "telegram command",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "name": "",
+        "command": "/energia",
+        "description": "",
+        "registercommand": false,
+        "language": "",
+        "scope": "default",
+        "bot": "c4a379e8159a05ba",
+        "strict": false,
+        "hasresponse": true,
+        "useregex": false,
+        "removeregexcommand": false,
+        "outputs": 2,
+        "x": 140,
+        "y": 1200,
+        "wires": [
+            [
+                "3d9eb121a81cbb55"
+            ],
+            []
+        ]
+    },
+    {
+        "id": "fe807166906128ea",
+        "type": "function",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "name": "PROMPT",
+        "func": "// 1. Procesar los datos de InfluxDB\nlet datos = msg.payload;\n\n// Verificar si hay datos\nif (!Array.isArray(datos) || datos.length === 0) {\n    msg.payload = {\n        error: \"No hay datos para procesar.\"\n    };\n    return msg;\n}\n\n// Obtener los nombres de las columnas (claves del primer objeto)\nlet columnas = Object.keys(datos[0]);\n\n// Resumir los datos para crear un prompt más manejable\nlet resumen = datos.slice(0, 100).map(item => {\n    let fila = {};\n    columnas.forEach(columna => {\n        fila[columna] = item[columna]; // Incluir todas las columnas y sus valores\n    });\n    return fila;\n});\n\n// Crear un prompt personalizado\nlet prompt = `Analiza los siguientes datos: ${JSON.stringify(resumen)}. ¿Qué conclusiones puedes sacar? ¿Hay algún dato que parezca incorrecto o fuera de lo esperado? Responder todo en español.`;\n\n// 2. Estructurar el mensaje para Ollama\nmsg.payload = {\n    \"model\": \"Industrial\", // Especifica el modelo de Ollama\n    \"messages\": [\n        {\n            \"role\": \"user\", // Rol del mensaje (usuario)\n            \"content\": prompt // El prompt creado con los datos procesados\n        }\n    ]\n};\n\n// Retornar el mensaje con la estructura correcta\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 600,
+        "y": 1200,
+        "wires": [
+            [
+                "7667aa32e4c09ba6",
+                "7fb435c08c71b972"
+            ]
+        ]
+    },
+    {
+        "id": "3d9eb121a81cbb55",
+        "type": "influxdb in",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "influxdb": "ef1773782a4a14db",
+        "name": "",
+        "query": "SELECT \"ENERGIA\" FROM \"RAG\" ORDER BY time DESC LIMIT 5\n",
+        "rawOutput": false,
+        "precision": "",
+        "retentionPolicy": "",
+        "org": "organisation",
+        "x": 370,
+        "y": 1200,
+        "wires": [
+            [
+                "968e9c2b1fa344ee",
+                "fe807166906128ea"
+            ]
+        ]
+    },
+    {
+        "id": "7667aa32e4c09ba6",
+        "type": "ollama-chat",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "name": "Chat",
+        "server": "ff5d761f4988b3a1",
+        "model": "Industrial",
+        "modelType": "str",
+        "messages": "",
+        "messagesType": "msg",
+        "format": "",
+        "stream": false,
+        "keepAlive": "",
+        "keepAliveType": "str",
+        "tools": "",
+        "options": "",
+        "x": 770,
+        "y": 1200,
+        "wires": [
+            [
+                "e147f67469709da6",
+                "ab0262e108a6c7e3"
+            ]
+        ]
+    },
+    {
+        "id": "e147f67469709da6",
+        "type": "function",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "name": "function 5",
+        "func": "// Extraer el contenido de la respuesta de Ollama\nvar ollamaContent = msg.payload.message.content;\n\n// Construir el objeto msg.payload para Telegram\nmsg.payload = {\n    \"chatId\": 1144956543, // Reemplaza con el chatId correcto\n    \"type\": \"message\",\n    \"content\": ollamaContent // Usar el contenido de la respuesta de Ollama\n};\n\n// Retornar el mensaje modificado\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 940,
+        "y": 1200,
+        "wires": [
+            [
+                "7dbfa3c073e00134",
+                "22dc3581524c6588"
+            ]
+        ]
+    },
+    {
+        "id": "7dbfa3c073e00134",
+        "type": "telegram sender",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "name": "",
+        "bot": "c4a379e8159a05ba",
+        "haserroroutput": false,
+        "outputs": 1,
+        "x": 1130,
+        "y": 1200,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "968e9c2b1fa344ee",
+        "type": "debug",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "name": "debug 20",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 580,
+        "y": 1100,
+        "wires": []
+    },
+    {
+        "id": "7fb435c08c71b972",
+        "type": "debug",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "name": "debug 21",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 760,
+        "y": 1100,
+        "wires": []
+    },
+    {
+        "id": "ab0262e108a6c7e3",
+        "type": "debug",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "name": "debug 22",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 920,
+        "y": 1100,
+        "wires": []
+    },
+    {
+        "id": "22dc3581524c6588",
+        "type": "debug",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "name": "debug 23",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1100,
+        "y": 1100,
+        "wires": []
+    },
+    {
+        "id": "d7296ed5f60b9f99",
+        "type": "telegram command",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "name": "",
+        "command": "/gas",
+        "description": "",
+        "registercommand": false,
+        "language": "",
+        "scope": "default",
+        "bot": "c4a379e8159a05ba",
+        "strict": false,
+        "hasresponse": true,
+        "useregex": false,
+        "removeregexcommand": false,
+        "outputs": 2,
+        "x": 130,
+        "y": 1360,
+        "wires": [
+            [
+                "788d6be5827520cc"
+            ],
+            []
+        ]
+    },
+    {
+        "id": "4da285de391cf12c",
+        "type": "function",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "name": "PROMPT",
+        "func": "// 1. Procesar los datos de InfluxDB\nlet datos = msg.payload;\n\n// Verificar si hay datos\nif (!Array.isArray(datos) || datos.length === 0) {\n    msg.payload = {\n        error: \"No hay datos para procesar.\"\n    };\n    return msg;\n}\n\n// Obtener los nombres de las columnas (claves del primer objeto)\nlet columnas = Object.keys(datos[0]);\n\n// Resumir los datos para crear un prompt más manejable\nlet resumen = datos.slice(0, 100).map(item => {\n    let fila = {};\n    columnas.forEach(columna => {\n        fila[columna] = item[columna]; // Incluir todas las columnas y sus valores\n    });\n    return fila;\n});\n\n// Crear un prompt personalizado\nlet prompt = `Analiza los siguientes datos: ${JSON.stringify(resumen)}. ¿Qué conclusiones puedes sacar? ¿Hay algún dato que parezca incorrecto o fuera de lo esperado? Responder todo en español.`;\n\n// 2. Estructurar el mensaje para Ollama\nmsg.payload = {\n    \"model\": \"Industrial\", // Especifica el modelo de Ollama\n    \"messages\": [\n        {\n            \"role\": \"user\", // Rol del mensaje (usuario)\n            \"content\": prompt // El prompt creado con los datos procesados\n        }\n    ]\n};\n\n// Retornar el mensaje con la estructura correcta\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 600,
+        "y": 1360,
+        "wires": [
+            [
+                "731fb8cfed073c34",
+                "0a177b72c78b73a9"
+            ]
+        ]
+    },
+    {
+        "id": "788d6be5827520cc",
+        "type": "influxdb in",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "influxdb": "ef1773782a4a14db",
+        "name": "",
+        "query": "SELECT \"GAS\" FROM \"RAG\" ORDER BY time DESC LIMIT 5\n",
+        "rawOutput": false,
+        "precision": "",
+        "retentionPolicy": "",
+        "org": "organisation",
+        "x": 370,
+        "y": 1360,
+        "wires": [
+            [
+                "02c44a5d58adab90",
+                "4da285de391cf12c"
+            ]
+        ]
+    },
+    {
+        "id": "731fb8cfed073c34",
+        "type": "ollama-chat",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "name": "Chat",
+        "server": "ff5d761f4988b3a1",
+        "model": "Industrial",
+        "modelType": "str",
+        "messages": "",
+        "messagesType": "msg",
+        "format": "",
+        "stream": false,
+        "keepAlive": "",
+        "keepAliveType": "str",
+        "tools": "",
+        "options": "",
+        "x": 770,
+        "y": 1360,
+        "wires": [
+            [
+                "5a8d9e2493272220",
+                "8c5a221e5f9cd6c5"
+            ]
+        ]
+    },
+    {
+        "id": "5a8d9e2493272220",
+        "type": "function",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "name": "function 6",
+        "func": "// Extraer el contenido de la respuesta de Ollama\nvar ollamaContent = msg.payload.message.content;\n\n// Construir el objeto msg.payload para Telegram\nmsg.payload = {\n    \"chatId\": 1144956543, // Reemplaza con el chatId correcto\n    \"type\": \"message\",\n    \"content\": ollamaContent // Usar el contenido de la respuesta de Ollama\n};\n\n// Retornar el mensaje modificado\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 940,
+        "y": 1360,
+        "wires": [
+            [
+                "97179a29c1dc0732",
+                "d3f1b3eb7fd67160"
+            ]
+        ]
+    },
+    {
+        "id": "97179a29c1dc0732",
+        "type": "telegram sender",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "name": "",
+        "bot": "c4a379e8159a05ba",
+        "haserroroutput": false,
+        "outputs": 1,
+        "x": 1130,
+        "y": 1360,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "02c44a5d58adab90",
+        "type": "debug",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "name": "debug 24",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 580,
+        "y": 1260,
+        "wires": []
+    },
+    {
+        "id": "0a177b72c78b73a9",
+        "type": "debug",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "name": "debug 25",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 760,
+        "y": 1260,
+        "wires": []
+    },
+    {
+        "id": "8c5a221e5f9cd6c5",
+        "type": "debug",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "name": "debug 26",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 920,
+        "y": 1260,
+        "wires": []
+    },
+    {
+        "id": "d3f1b3eb7fd67160",
+        "type": "debug",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "name": "debug 27",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1100,
+        "y": 1260,
+        "wires": []
+    },
+    {
+        "id": "7d4043a6599d82bc",
+        "type": "telegram command",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "name": "",
+        "command": "/vapor",
+        "description": "",
+        "registercommand": false,
+        "language": "",
+        "scope": "default",
+        "bot": "c4a379e8159a05ba",
+        "strict": false,
+        "hasresponse": true,
+        "useregex": false,
+        "removeregexcommand": false,
+        "outputs": 2,
+        "x": 130,
+        "y": 1540,
+        "wires": [
+            [
+                "10a563265953f68d"
+            ],
+            []
+        ]
+    },
+    {
+        "id": "ed46de57db7f8a66",
+        "type": "function",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "name": "PROMPT",
+        "func": "// 1. Procesar los datos de InfluxDB\nlet datos = msg.payload;\n\n// Verificar si hay datos\nif (!Array.isArray(datos) || datos.length === 0) {\n    msg.payload = {\n        error: \"No hay datos para procesar.\"\n    };\n    return msg;\n}\n\n// Obtener los nombres de las columnas (claves del primer objeto)\nlet columnas = Object.keys(datos[0]);\n\n// Resumir los datos para crear un prompt más manejable\nlet resumen = datos.slice(0, 100).map(item => {\n    let fila = {};\n    columnas.forEach(columna => {\n        fila[columna] = item[columna]; // Incluir todas las columnas y sus valores\n    });\n    return fila;\n});\n\n// Crear un prompt personalizado\nlet prompt = `Analiza los siguientes datos: ${JSON.stringify(resumen)}. ¿Qué conclusiones puedes sacar? ¿Hay algún dato que parezca incorrecto o fuera de lo esperado? Responder todo en español.`;\n\n// 2. Estructurar el mensaje para Ollama\nmsg.payload = {\n    \"model\": \"Industrial\", // Especifica el modelo de Ollama\n    \"messages\": [\n        {\n            \"role\": \"user\", // Rol del mensaje (usuario)\n            \"content\": prompt // El prompt creado con los datos procesados\n        }\n    ]\n};\n\n// Retornar el mensaje con la estructura correcta\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 600,
+        "y": 1540,
+        "wires": [
+            [
+                "c26da363b2269cce",
+                "28bc32e9756c5c9d"
+            ]
+        ]
+    },
+    {
+        "id": "10a563265953f68d",
+        "type": "influxdb in",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "influxdb": "ef1773782a4a14db",
+        "name": "",
+        "query": "SELECT \"VAPOR\" FROM \"RAG\" ORDER BY time DESC LIMIT 5\n",
+        "rawOutput": false,
+        "precision": "",
+        "retentionPolicy": "",
+        "org": "organisation",
+        "x": 370,
+        "y": 1540,
+        "wires": [
+            [
+                "59d1f74fd64fb08f",
+                "ed46de57db7f8a66"
+            ]
+        ]
+    },
+    {
+        "id": "c26da363b2269cce",
+        "type": "ollama-chat",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "name": "Chat",
+        "server": "ff5d761f4988b3a1",
+        "model": "Industrial",
+        "modelType": "str",
+        "messages": "",
+        "messagesType": "msg",
+        "format": "",
+        "stream": false,
+        "keepAlive": "",
+        "keepAliveType": "str",
+        "tools": "",
+        "options": "",
+        "x": 770,
+        "y": 1540,
+        "wires": [
+            [
+                "05080b25e8b05bf8",
+                "a4c26e5bff769b17"
+            ]
+        ]
+    },
+    {
+        "id": "05080b25e8b05bf8",
+        "type": "function",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "name": "function 7",
+        "func": "// Extraer el contenido de la respuesta de Ollama\nvar ollamaContent = msg.payload.message.content;\n\n// Construir el objeto msg.payload para Telegram\nmsg.payload = {\n    \"chatId\": 1144956543, // Reemplaza con el chatId correcto\n    \"type\": \"message\",\n    \"content\": ollamaContent // Usar el contenido de la respuesta de Ollama\n};\n\n// Retornar el mensaje modificado\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 940,
+        "y": 1540,
+        "wires": [
+            [
+                "57b8be9004329cfa",
+                "0aac237c829b6445"
+            ]
+        ]
+    },
+    {
+        "id": "57b8be9004329cfa",
+        "type": "telegram sender",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "name": "",
+        "bot": "c4a379e8159a05ba",
+        "haserroroutput": false,
+        "outputs": 1,
+        "x": 1130,
+        "y": 1540,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "59d1f74fd64fb08f",
+        "type": "debug",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "name": "debug 28",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 580,
+        "y": 1440,
+        "wires": []
+    },
+    {
+        "id": "28bc32e9756c5c9d",
+        "type": "debug",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "name": "debug 29",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 760,
+        "y": 1440,
+        "wires": []
+    },
+    {
+        "id": "a4c26e5bff769b17",
+        "type": "debug",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "name": "debug 30",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 920,
+        "y": 1440,
+        "wires": []
+    },
+    {
+        "id": "0aac237c829b6445",
+        "type": "debug",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "name": "debug 31",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1100,
+        "y": 1440,
+        "wires": []
+    },
+    {
+        "id": "c474d983fe977ee9",
+        "type": "telegram command",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "name": "",
+        "command": "/motor",
+        "description": "",
+        "registercommand": false,
+        "language": "",
+        "scope": "default",
+        "bot": "c4a379e8159a05ba",
+        "strict": false,
+        "hasresponse": true,
+        "useregex": false,
+        "removeregexcommand": false,
+        "outputs": 2,
+        "x": 130,
+        "y": 1720,
+        "wires": [
+            [
+                "9cdbbdcdb78e46ac"
+            ],
+            []
+        ]
+    },
+    {
+        "id": "fb0a274bfbb730ec",
+        "type": "function",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "name": "PROMPT",
+        "func": "// 1. Procesar los datos de InfluxDB\nlet datos = msg.payload;\n\n// Verificar si hay datos\nif (!Array.isArray(datos) || datos.length === 0) {\n    msg.payload = {\n        error: \"No hay datos para procesar.\"\n    };\n    return msg;\n}\n\n// Obtener los nombres de las columnas (claves del primer objeto)\nlet columnas = Object.keys(datos[0]);\n\n// Resumir los datos para crear un prompt más manejable\nlet resumen = datos.slice(0, 100).map(item => {\n    let fila = {};\n    columnas.forEach(columna => {\n        fila[columna] = item[columna]; // Incluir todas las columnas y sus valores\n    });\n    return fila;\n});\n\n// Crear un prompt personalizado\nlet prompt = `Analiza los siguientes datos: ${JSON.stringify(resumen)}. ¿Qué conclusiones puedes sacar? ¿Hay algún dato que parezca incorrecto o fuera de lo esperado? Responder todo en español.`;\n\n// 2. Estructurar el mensaje para Ollama\nmsg.payload = {\n    \"model\": \"Industrial\", // Especifica el modelo de Ollama\n    \"messages\": [\n        {\n            \"role\": \"user\", // Rol del mensaje (usuario)\n            \"content\": prompt // El prompt creado con los datos procesados\n        }\n    ]\n};\n\n// Retornar el mensaje con la estructura correcta\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 600,
+        "y": 1720,
+        "wires": [
+            [
+                "1764b8576dde99b8",
+                "7d26d2b7a0f30a0e"
+            ]
+        ]
+    },
+    {
+        "id": "9cdbbdcdb78e46ac",
+        "type": "influxdb in",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "influxdb": "ef1773782a4a14db",
+        "name": "",
+        "query": "SELECT \"MOTOR\" FROM \"RAG\" ORDER BY time DESC LIMIT 5\n",
+        "rawOutput": false,
+        "precision": "",
+        "retentionPolicy": "",
+        "org": "organisation",
+        "x": 370,
+        "y": 1720,
+        "wires": [
+            [
+                "ca3aabdba715d995",
+                "fb0a274bfbb730ec"
+            ]
+        ]
+    },
+    {
+        "id": "1764b8576dde99b8",
+        "type": "ollama-chat",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "name": "Chat",
+        "server": "ff5d761f4988b3a1",
+        "model": "Industrial",
+        "modelType": "str",
+        "messages": "",
+        "messagesType": "msg",
+        "format": "",
+        "stream": false,
+        "keepAlive": "",
+        "keepAliveType": "str",
+        "tools": "",
+        "options": "",
+        "x": 770,
+        "y": 1720,
+        "wires": [
+            [
+                "d104ef1f56b5ae7e",
+                "9954368b6b9b5a10"
+            ]
+        ]
+    },
+    {
+        "id": "d104ef1f56b5ae7e",
+        "type": "function",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "name": "function 8",
+        "func": "// Extraer el contenido de la respuesta de Ollama\nvar ollamaContent = msg.payload.message.content;\n\n// Construir el objeto msg.payload para Telegram\nmsg.payload = {\n    \"chatId\": 1144956543, // Reemplaza con el chatId correcto\n    \"type\": \"message\",\n    \"content\": ollamaContent // Usar el contenido de la respuesta de Ollama\n};\n\n// Retornar el mensaje modificado\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 940,
+        "y": 1720,
+        "wires": [
+            [
+                "cb9b30fd7f7501ab",
+                "bab6531bce93eb04"
+            ]
+        ]
+    },
+    {
+        "id": "cb9b30fd7f7501ab",
+        "type": "telegram sender",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "name": "",
+        "bot": "c4a379e8159a05ba",
+        "haserroroutput": false,
+        "outputs": 1,
+        "x": 1130,
+        "y": 1720,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "ca3aabdba715d995",
+        "type": "debug",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "name": "debug 32",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 580,
+        "y": 1620,
+        "wires": []
+    },
+    {
+        "id": "7d26d2b7a0f30a0e",
+        "type": "debug",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "name": "debug 33",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 760,
+        "y": 1620,
+        "wires": []
+    },
+    {
+        "id": "9954368b6b9b5a10",
+        "type": "debug",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "name": "debug 34",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 920,
+        "y": 1620,
+        "wires": []
+    },
+    {
+        "id": "bab6531bce93eb04",
+        "type": "debug",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "name": "debug 35",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1100,
+        "y": 1620,
+        "wires": []
+    },
+    {
+        "id": "3060c0b8d921284a",
+        "type": "telegram command",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "name": "",
+        "command": "/nivel",
+        "description": "",
+        "registercommand": false,
+        "language": "",
+        "scope": "default",
+        "bot": "c4a379e8159a05ba",
+        "strict": false,
+        "hasresponse": true,
+        "useregex": false,
+        "removeregexcommand": false,
+        "outputs": 2,
+        "x": 130,
+        "y": 1900,
+        "wires": [
+            [
+                "f8b795d039f5ecdf"
+            ],
+            []
+        ]
+    },
+    {
+        "id": "00f87e04b1128362",
+        "type": "function",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "name": "PROMPT",
+        "func": "// 1. Procesar los datos de InfluxDB\nlet datos = msg.payload;\n\n// Verificar si hay datos\nif (!Array.isArray(datos) || datos.length === 0) {\n    msg.payload = {\n        error: \"No hay datos para procesar.\"\n    };\n    return msg;\n}\n\n// Obtener los nombres de las columnas (claves del primer objeto)\nlet columnas = Object.keys(datos[0]);\n\n// Resumir los datos para crear un prompt más manejable\nlet resumen = datos.slice(0, 100).map(item => {\n    let fila = {};\n    columnas.forEach(columna => {\n        fila[columna] = item[columna]; // Incluir todas las columnas y sus valores\n    });\n    return fila;\n});\n\n// Crear un prompt personalizado\nlet prompt = `Analiza los siguientes datos: ${JSON.stringify(resumen)}. ¿Qué conclusiones puedes sacar? ¿Hay algún dato que parezca incorrecto o fuera de lo esperado? Responder todo en español.`;\n\n// 2. Estructurar el mensaje para Ollama\nmsg.payload = {\n    \"model\": \"Industrial\", // Especifica el modelo de Ollama\n    \"messages\": [\n        {\n            \"role\": \"user\", // Rol del mensaje (usuario)\n            \"content\": prompt // El prompt creado con los datos procesados\n        }\n    ]\n};\n\n// Retornar el mensaje con la estructura correcta\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 600,
+        "y": 1900,
+        "wires": [
+            [
+                "7b62f650c880a5fa",
+                "f6ec39547f93a882"
+            ]
+        ]
+    },
+    {
+        "id": "f8b795d039f5ecdf",
+        "type": "influxdb in",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "influxdb": "ef1773782a4a14db",
+        "name": "",
+        "query": "SELECT \"NIVEL\" FROM \"RAG\" ORDER BY time DESC LIMIT 5\n",
+        "rawOutput": false,
+        "precision": "",
+        "retentionPolicy": "",
+        "org": "organisation",
+        "x": 370,
+        "y": 1900,
+        "wires": [
+            [
+                "611b858098b87306",
+                "00f87e04b1128362"
+            ]
+        ]
+    },
+    {
+        "id": "7b62f650c880a5fa",
+        "type": "ollama-chat",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "name": "Chat",
+        "server": "ff5d761f4988b3a1",
+        "model": "Industrial",
+        "modelType": "str",
+        "messages": "",
+        "messagesType": "msg",
+        "format": "",
+        "stream": false,
+        "keepAlive": "",
+        "keepAliveType": "str",
+        "tools": "",
+        "options": "",
+        "x": 770,
+        "y": 1900,
+        "wires": [
+            [
+                "8c29c114587a23d7",
+                "41da8813c38b36de"
+            ]
+        ]
+    },
+    {
+        "id": "8c29c114587a23d7",
+        "type": "function",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "name": "function 9",
+        "func": "// Extraer el contenido de la respuesta de Ollama\nvar ollamaContent = msg.payload.message.content;\n\n// Construir el objeto msg.payload para Telegram\nmsg.payload = {\n    \"chatId\": 1144956543, // Reemplaza con el chatId correcto\n    \"type\": \"message\",\n    \"content\": ollamaContent // Usar el contenido de la respuesta de Ollama\n};\n\n// Retornar el mensaje modificado\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 940,
+        "y": 1900,
+        "wires": [
+            [
+                "ac35f401e8901131",
+                "51364afccd70b67c"
+            ]
+        ]
+    },
+    {
+        "id": "ac35f401e8901131",
+        "type": "telegram sender",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "name": "",
+        "bot": "c4a379e8159a05ba",
+        "haserroroutput": false,
+        "outputs": 1,
+        "x": 1130,
+        "y": 1900,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "611b858098b87306",
+        "type": "debug",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "name": "debug 36",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 580,
+        "y": 1800,
+        "wires": []
+    },
+    {
+        "id": "f6ec39547f93a882",
+        "type": "debug",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "name": "debug 37",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 760,
+        "y": 1800,
+        "wires": []
+    },
+    {
+        "id": "41da8813c38b36de",
+        "type": "debug",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "name": "debug 38",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 920,
+        "y": 1800,
+        "wires": []
+    },
+    {
+        "id": "51364afccd70b67c",
+        "type": "debug",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "name": "debug 39",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1100,
+        "y": 1800,
+        "wires": []
+    },
+    {
+        "id": "2ecedbc7cc640e5f",
+        "type": "telegram command",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "name": "",
+        "command": "/nivel2",
+        "description": "",
+        "registercommand": false,
+        "language": "",
+        "scope": "default",
+        "bot": "c4a379e8159a05ba",
+        "strict": false,
+        "hasresponse": true,
+        "useregex": false,
+        "removeregexcommand": false,
+        "outputs": 2,
+        "x": 130,
+        "y": 2060,
+        "wires": [
+            [
+                "c0aed974b2ef688b"
+            ],
+            []
+        ]
+    },
+    {
+        "id": "1ced01a7c820830b",
+        "type": "function",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "name": "PROMPT",
+        "func": "// 1. Procesar los datos de InfluxDB\nlet datos = msg.payload;\n\n// Verificar si hay datos\nif (!Array.isArray(datos) || datos.length === 0) {\n    msg.payload = {\n        error: \"No hay datos para procesar.\"\n    };\n    return msg;\n}\n\n// Obtener los nombres de las columnas (claves del primer objeto)\nlet columnas = Object.keys(datos[0]);\n\n// Resumir los datos para crear un prompt más manejable\nlet resumen = datos.slice(0, 100).map(item => {\n    let fila = {};\n    columnas.forEach(columna => {\n        fila[columna] = item[columna]; // Incluir todas las columnas y sus valores\n    });\n    return fila;\n});\n\n// Crear un prompt personalizado\nlet prompt = `Analiza los siguientes datos: ${JSON.stringify(resumen)}. ¿Qué conclusiones puedes sacar? ¿Hay algún dato que parezca incorrecto o fuera de lo esperado? Responder todo en español.`;\n\n// 2. Estructurar el mensaje para Ollama\nmsg.payload = {\n    \"model\": \"Industrial\", // Especifica el modelo de Ollama\n    \"messages\": [\n        {\n            \"role\": \"user\", // Rol del mensaje (usuario)\n            \"content\": prompt // El prompt creado con los datos procesados\n        }\n    ]\n};\n\n// Retornar el mensaje con la estructura correcta\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 600,
+        "y": 2060,
+        "wires": [
+            [
+                "2a3308db1c2734a0",
+                "7ce8e8e8557f18d2"
+            ]
+        ]
+    },
+    {
+        "id": "c0aed974b2ef688b",
+        "type": "influxdb in",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "influxdb": "ef1773782a4a14db",
+        "name": "",
+        "query": "SELECT \"NIVEL 2\" FROM \"RAG\" ORDER BY time DESC LIMIT 5\n",
+        "rawOutput": false,
+        "precision": "",
+        "retentionPolicy": "",
+        "org": "organisation",
+        "x": 370,
+        "y": 2060,
+        "wires": [
+            [
+                "5b6b5b9cc643851c",
+                "1ced01a7c820830b"
+            ]
+        ]
+    },
+    {
+        "id": "2a3308db1c2734a0",
+        "type": "ollama-chat",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "name": "Chat",
+        "server": "ff5d761f4988b3a1",
+        "model": "Industrial",
+        "modelType": "str",
+        "messages": "",
+        "messagesType": "msg",
+        "format": "",
+        "stream": false,
+        "keepAlive": "",
+        "keepAliveType": "str",
+        "tools": "",
+        "options": "",
+        "x": 770,
+        "y": 2060,
+        "wires": [
+            [
+                "32470e840bac572f",
+                "90f2ea3e184c2823"
+            ]
+        ]
+    },
+    {
+        "id": "32470e840bac572f",
+        "type": "function",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "name": "function 10",
+        "func": "// Extraer el contenido de la respuesta de Ollama\nvar ollamaContent = msg.payload.message.content;\n\n// Construir el objeto msg.payload para Telegram\nmsg.payload = {\n    \"chatId\": 1144956543, // Reemplaza con el chatId correcto\n    \"type\": \"message\",\n    \"content\": ollamaContent // Usar el contenido de la respuesta de Ollama\n};\n\n// Retornar el mensaje modificado\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 940,
+        "y": 2060,
+        "wires": [
+            [
+                "6f92e5d45c6081e9",
+                "d667aec4573fd28f"
+            ]
+        ]
+    },
+    {
+        "id": "6f92e5d45c6081e9",
+        "type": "telegram sender",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "name": "",
+        "bot": "c4a379e8159a05ba",
+        "haserroroutput": false,
+        "outputs": 1,
+        "x": 1130,
+        "y": 2060,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "5b6b5b9cc643851c",
+        "type": "debug",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "name": "debug 40",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 580,
+        "y": 1960,
+        "wires": []
+    },
+    {
+        "id": "7ce8e8e8557f18d2",
+        "type": "debug",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "name": "debug 41",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 760,
+        "y": 1960,
+        "wires": []
+    },
+    {
+        "id": "90f2ea3e184c2823",
+        "type": "debug",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "name": "debug 42",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 920,
+        "y": 1960,
+        "wires": []
+    },
+    {
+        "id": "d667aec4573fd28f",
+        "type": "debug",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "name": "debug 43",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1100,
+        "y": 1960,
+        "wires": []
+    },
+    {
+        "id": "8e489e4fd0f85e89",
+        "type": "telegram command",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "name": "",
+        "command": "/paromaquina",
+        "description": "",
+        "registercommand": false,
+        "language": "",
+        "scope": "default",
+        "bot": "c4a379e8159a05ba",
+        "strict": false,
+        "hasresponse": true,
+        "useregex": false,
+        "removeregexcommand": false,
+        "outputs": 2,
+        "x": 170,
+        "y": 2240,
+        "wires": [
+            [
+                "c52608ad6a40e8b0"
+            ],
+            []
+        ]
+    },
+    {
+        "id": "8e60eaf62fefdcec",
+        "type": "function",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "name": "PROMPT",
+        "func": "// 1. Procesar los datos de InfluxDB\nlet datos = msg.payload;\n\n// Verificar si hay datos\nif (!Array.isArray(datos) || datos.length === 0) {\n    msg.payload = {\n        error: \"No hay datos para procesar.\"\n    };\n    return msg;\n}\n\n// Obtener los nombres de las columnas (claves del primer objeto)\nlet columnas = Object.keys(datos[0]);\n\n// Resumir los datos para crear un prompt más manejable\nlet resumen = datos.slice(0, 100).map(item => {\n    let fila = {};\n    columnas.forEach(columna => {\n        fila[columna] = item[columna]; // Incluir todas las columnas y sus valores\n    });\n    return fila;\n});\n\n// Crear un prompt personalizado\nlet prompt = `Analiza los siguientes datos: ${JSON.stringify(resumen)}. ¿Qué conclusiones puedes sacar? ¿Hay algún dato que parezca incorrecto o fuera de lo esperado? Responder todo en español.`;\n\n// 2. Estructurar el mensaje para Ollama\nmsg.payload = {\n    \"model\": \"Industrial\", // Especifica el modelo de Ollama\n    \"messages\": [\n        {\n            \"role\": \"user\", // Rol del mensaje (usuario)\n            \"content\": prompt // El prompt creado con los datos procesados\n        }\n    ]\n};\n\n// Retornar el mensaje con la estructura correcta\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 620,
+        "y": 2240,
+        "wires": [
+            [
+                "93adbf7024ca9401",
+                "a6532727936f7d8a"
+            ]
+        ]
+    },
+    {
+        "id": "c52608ad6a40e8b0",
+        "type": "influxdb in",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "influxdb": "ef1773782a4a14db",
+        "name": "",
+        "query": "SELECT \"PARO_MAQUINA\" FROM \"RAG\" ORDER BY time DESC LIMIT 5\n",
+        "rawOutput": false,
+        "precision": "",
+        "retentionPolicy": "",
+        "org": "organisation",
+        "x": 390,
+        "y": 2240,
+        "wires": [
+            [
+                "c8df7a62bb2fdac3",
+                "8e60eaf62fefdcec"
+            ]
+        ]
+    },
+    {
+        "id": "93adbf7024ca9401",
+        "type": "ollama-chat",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "name": "Chat",
+        "server": "ff5d761f4988b3a1",
+        "model": "Industrial",
+        "modelType": "str",
+        "messages": "",
+        "messagesType": "msg",
+        "format": "",
+        "stream": false,
+        "keepAlive": "",
+        "keepAliveType": "str",
+        "tools": "",
+        "options": "",
+        "x": 790,
+        "y": 2240,
+        "wires": [
+            [
+                "0798f98944ecaf87",
+                "10cd276961ce1845"
+            ]
+        ]
+    },
+    {
+        "id": "0798f98944ecaf87",
+        "type": "function",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "name": "function 11",
+        "func": "// Extraer el contenido de la respuesta de Ollama\nvar ollamaContent = msg.payload.message.content;\n\n// Construir el objeto msg.payload para Telegram\nmsg.payload = {\n    \"chatId\": 1144956543, // Reemplaza con el chatId correcto\n    \"type\": \"message\",\n    \"content\": ollamaContent // Usar el contenido de la respuesta de Ollama\n};\n\n// Retornar el mensaje modificado\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 960,
+        "y": 2240,
+        "wires": [
+            [
+                "185343eaac595ba3",
+                "abdb7bac40648b7d"
+            ]
+        ]
+    },
+    {
+        "id": "185343eaac595ba3",
+        "type": "telegram sender",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "name": "",
+        "bot": "c4a379e8159a05ba",
+        "haserroroutput": false,
+        "outputs": 1,
+        "x": 1150,
+        "y": 2240,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "c8df7a62bb2fdac3",
+        "type": "debug",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "name": "debug 45",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 600,
+        "y": 2140,
+        "wires": []
+    },
+    {
+        "id": "a6532727936f7d8a",
+        "type": "debug",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "name": "debug 46",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 780,
+        "y": 2140,
+        "wires": []
+    },
+    {
+        "id": "10cd276961ce1845",
+        "type": "debug",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "name": "debug 47",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 940,
+        "y": 2140,
+        "wires": []
+    },
+    {
+        "id": "abdb7bac40648b7d",
+        "type": "debug",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "name": "debug 48",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1120,
+        "y": 2140,
+        "wires": []
+    },
+    {
+        "id": "5d714ae625f640e2",
+        "type": "telegram command",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "name": "",
+        "command": "/peso",
+        "description": "",
+        "registercommand": false,
+        "language": "",
+        "scope": "default",
+        "bot": "c4a379e8159a05ba",
+        "strict": false,
+        "hasresponse": true,
+        "useregex": false,
+        "removeregexcommand": false,
+        "outputs": 2,
+        "x": 150,
+        "y": 2400,
+        "wires": [
+            [
+                "a4de3713a6bb6943"
+            ],
+            []
+        ]
+    },
+    {
+        "id": "416066a81eaac1d1",
+        "type": "function",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "name": "PROMPT",
+        "func": "// 1. Procesar los datos de InfluxDB\nlet datos = msg.payload;\n\n// Verificar si hay datos\nif (!Array.isArray(datos) || datos.length === 0) {\n    msg.payload = {\n        error: \"No hay datos para procesar.\"\n    };\n    return msg;\n}\n\n// Obtener los nombres de las columnas (claves del primer objeto)\nlet columnas = Object.keys(datos[0]);\n\n// Resumir los datos para crear un prompt más manejable\nlet resumen = datos.slice(0, 100).map(item => {\n    let fila = {};\n    columnas.forEach(columna => {\n        fila[columna] = item[columna]; // Incluir todas las columnas y sus valores\n    });\n    return fila;\n});\n\n// Crear un prompt personalizado\nlet prompt = `Analiza los siguientes datos: ${JSON.stringify(resumen)}. ¿Qué conclusiones puedes sacar? ¿Hay algún dato que parezca incorrecto o fuera de lo esperado? Responder todo en español.`;\n\n// 2. Estructurar el mensaje para Ollama\nmsg.payload = {\n    \"model\": \"Industrial\", // Especifica el modelo de Ollama\n    \"messages\": [\n        {\n            \"role\": \"user\", // Rol del mensaje (usuario)\n            \"content\": prompt // El prompt creado con los datos procesados\n        }\n    ]\n};\n\n// Retornar el mensaje con la estructura correcta\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 620,
+        "y": 2400,
+        "wires": [
+            [
+                "2b76801676b611d1",
+                "2dbb2f0eb29df993"
+            ]
+        ]
+    },
+    {
+        "id": "a4de3713a6bb6943",
+        "type": "influxdb in",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "influxdb": "ef1773782a4a14db",
+        "name": "",
+        "query": "SELECT \"PESO\" FROM \"RAG\" ORDER BY time DESC LIMIT 5\n",
+        "rawOutput": false,
+        "precision": "",
+        "retentionPolicy": "",
+        "org": "organisation",
+        "x": 390,
+        "y": 2400,
+        "wires": [
+            [
+                "9dbd095553e53a7e",
+                "416066a81eaac1d1"
+            ]
+        ]
+    },
+    {
+        "id": "2b76801676b611d1",
+        "type": "ollama-chat",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "name": "Chat",
+        "server": "ff5d761f4988b3a1",
+        "model": "Industrial",
+        "modelType": "str",
+        "messages": "",
+        "messagesType": "msg",
+        "format": "",
+        "stream": false,
+        "keepAlive": "",
+        "keepAliveType": "str",
+        "tools": "",
+        "options": "",
+        "x": 790,
+        "y": 2400,
+        "wires": [
+            [
+                "4cd336a8c79e5a5a",
+                "8a00e1c845e1937e"
+            ]
+        ]
+    },
+    {
+        "id": "4cd336a8c79e5a5a",
+        "type": "function",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "name": "function 12",
+        "func": "// Extraer el contenido de la respuesta de Ollama\nvar ollamaContent = msg.payload.message.content;\n\n// Construir el objeto msg.payload para Telegram\nmsg.payload = {\n    \"chatId\": 1144956543, // Reemplaza con el chatId correcto\n    \"type\": \"message\",\n    \"content\": ollamaContent // Usar el contenido de la respuesta de Ollama\n};\n\n// Retornar el mensaje modificado\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 960,
+        "y": 2400,
+        "wires": [
+            [
+                "e9ba900871c2bff7",
+                "d5594deb7442406d"
+            ]
+        ]
+    },
+    {
+        "id": "e9ba900871c2bff7",
+        "type": "telegram sender",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "name": "",
+        "bot": "c4a379e8159a05ba",
+        "haserroroutput": false,
+        "outputs": 1,
+        "x": 1150,
+        "y": 2400,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "9dbd095553e53a7e",
+        "type": "debug",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "name": "debug 49",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 600,
+        "y": 2300,
+        "wires": []
+    },
+    {
+        "id": "2dbb2f0eb29df993",
+        "type": "debug",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "name": "debug 50",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 780,
+        "y": 2300,
+        "wires": []
+    },
+    {
+        "id": "8a00e1c845e1937e",
+        "type": "debug",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "name": "debug 51",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 940,
+        "y": 2300,
+        "wires": []
+    },
+    {
+        "id": "d5594deb7442406d",
+        "type": "debug",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "name": "debug 52",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1120,
+        "y": 2300,
+        "wires": []
+    },
+    {
+        "id": "18db13792640987b",
+        "type": "telegram command",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "name": "",
+        "command": "/rechazo",
+        "description": "",
+        "registercommand": false,
+        "language": "",
+        "scope": "default",
+        "bot": "c4a379e8159a05ba",
+        "strict": false,
+        "hasresponse": true,
+        "useregex": false,
+        "removeregexcommand": false,
+        "outputs": 2,
+        "x": 160,
+        "y": 2580,
+        "wires": [
+            [
+                "c0c4ae6d06cc2820"
+            ],
+            []
+        ]
+    },
+    {
+        "id": "38b19f3f549c5dda",
+        "type": "function",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "name": "PROMPT",
+        "func": "// 1. Procesar los datos de InfluxDB\nlet datos = msg.payload;\n\n// Verificar si hay datos\nif (!Array.isArray(datos) || datos.length === 0) {\n    msg.payload = {\n        error: \"No hay datos para procesar.\"\n    };\n    return msg;\n}\n\n// Obtener los nombres de las columnas (claves del primer objeto)\nlet columnas = Object.keys(datos[0]);\n\n// Resumir los datos para crear un prompt más manejable\nlet resumen = datos.slice(0, 100).map(item => {\n    let fila = {};\n    columnas.forEach(columna => {\n        fila[columna] = item[columna]; // Incluir todas las columnas y sus valores\n    });\n    return fila;\n});\n\n// Crear un prompt personalizado\nlet prompt = `Analiza los siguientes datos: ${JSON.stringify(resumen)}. ¿Qué conclusiones puedes sacar? ¿Hay algún dato que parezca incorrecto o fuera de lo esperado? Responder todo en español.`;\n\n// 2. Estructurar el mensaje para Ollama\nmsg.payload = {\n    \"model\": \"Industrial\", // Especifica el modelo de Ollama\n    \"messages\": [\n        {\n            \"role\": \"user\", // Rol del mensaje (usuario)\n            \"content\": prompt // El prompt creado con los datos procesados\n        }\n    ]\n};\n\n// Retornar el mensaje con la estructura correcta\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 620,
+        "y": 2580,
+        "wires": [
+            [
+                "46131a6c13c98a10",
+                "3ebbea9e6dd6bb01"
+            ]
+        ]
+    },
+    {
+        "id": "c0c4ae6d06cc2820",
+        "type": "influxdb in",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "influxdb": "ef1773782a4a14db",
+        "name": "",
+        "query": "SELECT \"RECHAZO\" FROM \"RAG\" ORDER BY time DESC LIMIT 5\n",
+        "rawOutput": false,
+        "precision": "",
+        "retentionPolicy": "",
+        "org": "organisation",
+        "x": 390,
+        "y": 2580,
+        "wires": [
+            [
+                "d4c4968fb79fbb27",
+                "38b19f3f549c5dda"
+            ]
+        ]
+    },
+    {
+        "id": "46131a6c13c98a10",
+        "type": "ollama-chat",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "name": "Chat",
+        "server": "ff5d761f4988b3a1",
+        "model": "Industrial",
+        "modelType": "str",
+        "messages": "",
+        "messagesType": "msg",
+        "format": "",
+        "stream": false,
+        "keepAlive": "",
+        "keepAliveType": "str",
+        "tools": "",
+        "options": "",
+        "x": 790,
+        "y": 2580,
+        "wires": [
+            [
+                "208c76291db645fb",
+                "e4f4d596fa1607ee"
+            ]
+        ]
+    },
+    {
+        "id": "208c76291db645fb",
+        "type": "function",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "name": "function 13",
+        "func": "// Extraer el contenido de la respuesta de Ollama\nvar ollamaContent = msg.payload.message.content;\n\n// Construir el objeto msg.payload para Telegram\nmsg.payload = {\n    \"chatId\": 1144956543, // Reemplaza con el chatId correcto\n    \"type\": \"message\",\n    \"content\": ollamaContent // Usar el contenido de la respuesta de Ollama\n};\n\n// Retornar el mensaje modificado\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 960,
+        "y": 2580,
+        "wires": [
+            [
+                "0b2d9a046cabec0c",
+                "6b4883a46f36c6a4"
+            ]
+        ]
+    },
+    {
+        "id": "0b2d9a046cabec0c",
+        "type": "telegram sender",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "name": "",
+        "bot": "c4a379e8159a05ba",
+        "haserroroutput": false,
+        "outputs": 1,
+        "x": 1150,
+        "y": 2580,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "d4c4968fb79fbb27",
+        "type": "debug",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "name": "debug 53",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 600,
+        "y": 2480,
+        "wires": []
+    },
+    {
+        "id": "3ebbea9e6dd6bb01",
+        "type": "debug",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "name": "debug 54",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 780,
+        "y": 2480,
+        "wires": []
+    },
+    {
+        "id": "e4f4d596fa1607ee",
+        "type": "debug",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "name": "debug 55",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 940,
+        "y": 2480,
+        "wires": []
+    },
+    {
+        "id": "6b4883a46f36c6a4",
+        "type": "debug",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "name": "debug 56",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1120,
+        "y": 2480,
+        "wires": []
+    },
+    {
+        "id": "12948e8106e38868",
+        "type": "telegram command",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "name": "",
+        "command": "/temperatura",
+        "description": "",
+        "registercommand": false,
+        "language": "",
+        "scope": "default",
+        "bot": "c4a379e8159a05ba",
+        "strict": false,
+        "hasresponse": true,
+        "useregex": false,
+        "removeregexcommand": false,
+        "outputs": 2,
+        "x": 150,
+        "y": 2760,
+        "wires": [
+            [
+                "4def3734c07cfe7f"
+            ],
+            []
+        ]
+    },
+    {
+        "id": "3b288ce1f5404eb5",
+        "type": "function",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "name": "PROMPT",
+        "func": "// 1. Procesar los datos de InfluxDB\nlet datos = msg.payload;\n\n// Verificar si hay datos\nif (!Array.isArray(datos) || datos.length === 0) {\n    msg.payload = {\n        error: \"No hay datos para procesar.\"\n    };\n    return msg;\n}\n\n// Obtener los nombres de las columnas (claves del primer objeto)\nlet columnas = Object.keys(datos[0]);\n\n// Resumir los datos para crear un prompt más manejable\nlet resumen = datos.slice(0, 100).map(item => {\n    let fila = {};\n    columnas.forEach(columna => {\n        fila[columna] = item[columna]; // Incluir todas las columnas y sus valores\n    });\n    return fila;\n});\n\n// Crear un prompt personalizado\nlet prompt = `Analiza los siguientes datos: ${JSON.stringify(resumen)}. ¿Qué conclusiones puedes sacar? ¿Hay algún dato que parezca incorrecto o fuera de lo esperado? Responder todo en español.`;\n\n// 2. Estructurar el mensaje para Ollama\nmsg.payload = {\n    \"model\": \"Industrial\", // Especifica el modelo de Ollama\n    \"messages\": [\n        {\n            \"role\": \"user\", // Rol del mensaje (usuario)\n            \"content\": prompt // El prompt creado con los datos procesados\n        }\n    ]\n};\n\n// Retornar el mensaje con la estructura correcta\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 600,
+        "y": 2760,
+        "wires": [
+            [
+                "48cecb80857596fd",
+                "2364295754b50744"
+            ]
+        ]
+    },
+    {
+        "id": "4def3734c07cfe7f",
+        "type": "influxdb in",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "influxdb": "ef1773782a4a14db",
+        "name": "",
+        "query": "SELECT \"TEMPERATURA\" FROM \"RAG\" ORDER BY time DESC LIMIT 5\n",
+        "rawOutput": false,
+        "precision": "",
+        "retentionPolicy": "",
+        "org": "organisation",
+        "x": 370,
+        "y": 2760,
+        "wires": [
+            [
+                "4963d2f3badfdb97",
+                "3b288ce1f5404eb5"
+            ]
+        ]
+    },
+    {
+        "id": "48cecb80857596fd",
+        "type": "ollama-chat",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "name": "Chat",
+        "server": "ff5d761f4988b3a1",
+        "model": "Industrial",
+        "modelType": "str",
+        "messages": "",
+        "messagesType": "msg",
+        "format": "",
+        "stream": false,
+        "keepAlive": "",
+        "keepAliveType": "str",
+        "tools": "",
+        "options": "",
+        "x": 770,
+        "y": 2760,
+        "wires": [
+            [
+                "0dae250cc902af9e",
+                "9adbc1bfa1d85721"
+            ]
+        ]
+    },
+    {
+        "id": "0dae250cc902af9e",
+        "type": "function",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "name": "function 14",
+        "func": "// Extraer el contenido de la respuesta de Ollama\nvar ollamaContent = msg.payload.message.content;\n\n// Construir el objeto msg.payload para Telegram\nmsg.payload = {\n    \"chatId\": 1144956543, // Reemplaza con el chatId correcto\n    \"type\": \"message\",\n    \"content\": ollamaContent // Usar el contenido de la respuesta de Ollama\n};\n\n// Retornar el mensaje modificado\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 940,
+        "y": 2760,
+        "wires": [
+            [
+                "c0ffced1bd4f04d5",
+                "12b8460ef89d9769"
+            ]
+        ]
+    },
+    {
+        "id": "c0ffced1bd4f04d5",
+        "type": "telegram sender",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "name": "",
+        "bot": "c4a379e8159a05ba",
+        "haserroroutput": false,
+        "outputs": 1,
+        "x": 1130,
+        "y": 2760,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "4963d2f3badfdb97",
+        "type": "debug",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "name": "debug 57",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 580,
+        "y": 2660,
+        "wires": []
+    },
+    {
+        "id": "2364295754b50744",
+        "type": "debug",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "name": "debug 58",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 760,
+        "y": 2660,
+        "wires": []
+    },
+    {
+        "id": "9adbc1bfa1d85721",
+        "type": "debug",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "name": "debug 59",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 920,
+        "y": 2660,
+        "wires": []
+    },
+    {
+        "id": "12b8460ef89d9769",
+        "type": "debug",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "name": "debug 60",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1100,
+        "y": 2660,
+        "wires": []
+    },
+    {
+        "id": "76d17e213099085f",
+        "type": "comment",
+        "z": "0cb9ce95e0fb80c1",
+        "g": "b01cd01b84ad4233",
+        "name": "Comandos del Sistema RAG",
+        "info": "",
+        "x": 240,
+        "y": 460,
         "wires": []
     }
 ]
