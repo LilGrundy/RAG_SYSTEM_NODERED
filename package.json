@@ -1,6 +1,6 @@
 {
     "name": "Prototipo_RAG_IOT",
-    "description": "Prototipo de un sistema RAG | IOT",
+    "description": "Este repositorio contiene un prototipo de un sistema RAG (Retrieval-Augmented Generation) aplicado a IoT, diseñado para integrar modelos de inteligencia artificial con datos en tiempo real provenientes de dispositivos conectados.",
     "version": "0.0.1",
     "dependencies": {},
     "node-red": {
